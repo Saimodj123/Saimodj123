@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+<!---![Screenshot_20250917-191220_Coinbase](https://github.com/user-attachments/assets/e59e02de-ec07-4901-8185-53edad430f80)
+
 Saimodj123/Saimodj123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
